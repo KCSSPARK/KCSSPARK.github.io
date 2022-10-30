@@ -1,0 +1,122 @@
+body {
+  display: -ms-flexbox;
+  color: #f6f6f8;
+  text-shadow: 0 .05rem .1rem rgba(0, 0, 0, .5);
+  box-shadow: inset 0 0 5rem rgba(0, 0, 0, .5);
+  height: 100%;
+  background-color: #f6f6f8;
+}
+
+.njumbo {
+  background-color: #fff;
+}
+.masthead {
+  margin-bottom: 2rem;
+}
+
+.masthead-brand {
+  margin-bottom: 0;
+}
+
+.cover {
+  padding: 0 1.5rem;
+}
+.cover .btn-lg {
+  padding: .75rem 1.25rem;
+  font-weight: 700;
+}
+
+.cover-container {
+  max-width: 54em;
+}
+.cover-container-w {
+  max-width: 88em;
+}
+
+.nav-masthead .nav-link:hover,
+.nav-masthead .nav-link:focus {
+  border-bottom-color: rgba(255, 255, 255, .25);
+}
+
+.nav-masthead .nav-link + .nav-link {
+  margin-left: 1rem;
+}
+
+.size-navbar {
+  font-size: 24px;
+}
+
+.nav-masthead .active {
+  color: #f6f6f8;
+  border-bottom-color: #f6f6f8;
+}
+
+.consolas {
+  font-family: "Consolas";
+}
+
+.helvetica {
+  font-family: "Helvetica";
+}
+.optima {
+  font-family: "Optima";
+}
+.georgia {
+  font-family: "Georgia";
+}
+.msYahei {
+  font-family: "微软雅黑";
+}
+
+.rel_200 {
+  /* position: absolute; */
+  top: 200px;
+  z-index: 999999;
+}
+.unind{
+  margin: 0px;
+}
+.ind {
+  margin: 12px;
+}
+.lind {
+  margin: 20px;
+}
+.llind {
+  margin: 30px;
+}
+.lllind {
+  margin: 40px;
+}
+.justind {
+  margin: 75px;
+}
+
+.zind {
+  padding: 5px;
+}
+
+.redf,.redf:hover {
+  color: red;
+}
+
+.greyf {
+  color:gray;
+}
+
+.bluef {
+  color: blue;
+}
+
+.blackf {
+  color: black;
+}
+
+.right_aligned {
+  position: absolute;
+  right: 10px;
+}
+
+.main_bg_color {
+  color: #f6f6f8;
+}
